@@ -18,8 +18,7 @@ Borsa haberleri
 KAP duyuruları
 Önemli piyasa gelişmeleri
 🚀 Kurulum
-Projeyi klonlayın:
-git clone https://github.com/yourusername/finscope.git
+
 XAMPP veya benzeri bir web sunucusu kurulumu yapın
 
 Projeyi web sunucunuzun kök dizinine kopyalayın (örn: C:/xampp/htdocs/finscope)
